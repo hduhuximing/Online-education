@@ -27,9 +27,9 @@
         </dependency>
 
         <!--非开源jar-->
-        <dependency>
-            <groupId>com.aliyun</groupId>
-            <artifactId>aliyun-sdk-vod-upload</artifactId>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>com.aliyun</groupId>-->
+<!--            <artifactId>aliyun-sdk-vod-upload</artifactId>-->
+<!--        </dependency>-->
     </dependencies>
 </project>
